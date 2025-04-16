@@ -1,3 +1,6 @@
 *.db
 __pycache__/
 *.txt
+*.spec
+build/
+dist/

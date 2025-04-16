@@ -19,7 +19,8 @@ class DBViewer(QMainWindow):
 
     def init_ui(self):
         # 设置窗口
-        self.setWindowTitle('数据库查看器')
+        self.setWindowTitle('DB-Viewer-Editor')
+        # self.setWindowIcon(QIcon('build/i.png'))
         self.setGeometry(100, 100, 1200, 800)
         
         # 创建状态栏
