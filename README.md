@@ -1,6 +1,7 @@
 # SQLite Database Viewer
 
 A simple yet powerful SQLite database viewer built with PyQt5. This application allows you to browse, query, and modify SQLite databases with an intuitive graphical interface.
+中文: [README-zh.md](README-zh.md)
 
 ## Features
 
@@ -22,7 +23,7 @@ A simple yet powerful SQLite database viewer built with PyQt5. This application 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/sqlite-dbviewer.git
+   git clone https://github.com/srcx404/DB-viewer-editor.git
    cd sqlite-dbviewer
    ```
 
