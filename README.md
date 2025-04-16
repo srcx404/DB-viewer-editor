@@ -24,7 +24,6 @@ A simple yet powerful SQLite database viewer built with PyQt5. This application 
 1. Clone the repository:
    ```
    git clone https://github.com/srcx404/DB-viewer-editor.git
-   cd sqlite-dbviewer
    ```
 
 2. Install dependencies:

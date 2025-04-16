@@ -23,7 +23,6 @@
 1. 克隆仓库：
    ```
    git clone https://github.com/srcx404/DB-viewer-editor.git
-   cd sqlite-dbviewer
    ```
 
 2. 安装依赖：
